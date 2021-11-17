@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{24C3C8E0-C9AC-412D-8826-A530BFC30054}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AvansPlusBakkerijEindopdracht/Program.cs">
+    <Files>
+      <File FileName="AvansPlusBakkerijEindopdracht/Program.cs" Line="450" Column="18" />
+      <File FileName="AvansPlusBakkerijEindopdracht/Persoon.cs" Line="49" Column="1" />
+      <File FileName="AvansPlusBakkerijEindopdracht/Medewerker.cs" Line="1" Column="1" />
+      <File FileName="AvansPlusBakkerijEindopdracht/Klant.cs" Line="5" Column="19" />
+      <File FileName="AvansPlusBakkerijEindopdracht/Product.cs" Line="20" Column="20" />
+      <File FileName="AvansPlusBakkerijEindopdracht/Startdata.cs" Line="20" Column="74" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AvansPlusBakkerijEindopdracht" expanded="True">
+            <Node name="AvansPlusBakkerijEindopdracht" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AvansPlusBakkerijEindopdracht PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
